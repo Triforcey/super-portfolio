@@ -1,0 +1,6 @@
+[submodule "portfolio-component-lib"]
+	path = portfolio-component-lib
+	url = https://github.com/Triforcey/portfolio-component-lib.git
+[submodule "portfolio-hub"]
+	path = portfolio-hub
+	url = https://github.com/Triforcey/portfolio-hub.git

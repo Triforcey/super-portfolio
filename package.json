@@ -1,0 +1,7 @@
+{
+  "name": "super-portfolio",
+  "workspaces": [
+    "portfolio-component-lib",
+    "portfolio-hub"
+  ]
+}
